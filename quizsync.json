@@ -1,10 +1,10 @@
 {"items": [
     {
-      "quizid": "dx4Teh-nv3A",
-      "quizname": "Namo Namo - Lyrical | Kedarnath | Sushant Rajput | Sara Ali Khan | Amit Trivedi | Amitabh B",
-      "quizsubject": 1,
-      "quiztotal": 30,
-      "quizimg": "19-05-2021"
+      "id": "dx4Teh-nv3A",
+      "nm": "Namo Namo - Lyrical | Kedarnath | Sushant Rajput | Sara Ali Khan | Amit Trivedi | Amitabh B",
+      "qs": 1,
+      "qt": 30,
+      "qi": "19-05-2021"
     }
   ]
 }
