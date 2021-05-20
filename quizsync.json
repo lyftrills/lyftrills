@@ -1,7 +1,35 @@
 {"items": [
     {
-      "id": "rishi123",
-      "nm": "Carbohydrates",
+      "id": "rish8123",
+      "nm": "Maths",
+      "qs": 1,
+      "qt": 2,
+      "qi": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": "rishi153",
+      "nm": "Physics",
+      "qs": 1,
+      "qt": 2,
+      "qi": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": "rishi143",
+      "nm": "chemistry",
+      "qs": 1,
+      "qt": 2,
+      "qi": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": "rishi121",
+      "nm": "biology",
+      "qs": 1,
+      "qt": 2,
+      "qi": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": "rishi122",
+      "nm": "physiology",
       "qs": 1,
       "qt": 2,
       "qi": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
