@@ -35,5 +35,22 @@
         "subtopic" : 1,
         "duration" : 500
     }
-  ]
+  ],
+ "subtopics":[
+     {
+      "id": 1,
+      "name": "Upper Limb",
+      "sub": 1
+    },
+     {
+      "id": 2,
+      "name": "Lower Limb",
+      "sub": 1
+    },
+     {
+      "id": 3,
+      "name": "Heart",
+      "sub": 3
+    }
+ ]
 }
